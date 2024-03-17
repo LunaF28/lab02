@@ -13,7 +13,7 @@
   </tfoot>
 </table>
 
-![Lab 2 Assignment](https://github.com/allegheny-college-cmpsc-104-Fall-2024/lab02/blob/main/github-mark2.png)
+![Lab 2 Assignment](https://github.com/allegheny-college-cmpsc-104-Fall-2024/lab02/blob/main/graphics/github-mark2.png)
 
 ## Project Goals
 - Deepen understanding of GitHub's collaboration features.
