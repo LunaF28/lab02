@@ -1,14 +1,26 @@
 
-# Document Engineering (CMPSC 104) Lab Assignment 2
+# Lab 02 - Intro to GitHub
 
-Assigned : Monday 9 September 2024
+## Timeline
+<table>
+  <thead>
+      <td style="text-align:left;">Assigned</td>
+      <td style="text-align:left;">Monday 9 September 2024</td>
+  </thead>
+  <tfoot>
+      <td style="text-align:left; color: red;">Deadline</td>
+      <td style="text-align:left;">Friday 13 September 2024</td>
+  </tfoot>
+</table>
 
-Due : Friday 13 September 2024
-
-![Lab 2 Assignment](https://github.com/allegheny-college-cmpsc-104-Fall-2024/lab02/blob/main/lab02.png)
+![Lab 2 Assignment](https://github.com/allegheny-college-cmpsc-104-Fall-2024/lab02/blob/main/github-mark2.png)
 
 ## Project Goals
-This lab assignment is designed to deepen your understanding of GitHub's collaboration features, focusing on pull and push operations, working with branches on GitHub, and the GitHub Flow. It combines theoretical insights with practical exercises to make you understand how to collaborate effectively on projects using GitHub.
+- Deepen understanding of GitHub's collaboration features.
+- Explore pull and push operations.
+- Work on branches on GitHub.
+- Demonstrate the GitHub Flow.
+- Enhance skills for collaborating effectively on projects using GitHub.
 
 ## Tools
 - A computer
@@ -23,30 +35,48 @@ These assignment learning outcomes contribute to the following course learning o
 
 ## Instructions
 
-### Part 1: Writing (Theoretical Understanding)
-- **GitHub Pull & Push**: Understand the concepts of pulling from and pushing to repositories on GitHub, and how these operations enable collaboration.
-- **GitHub Branch**: Learn about branches in GitHub, how they can be used for feature development, bug fixes, and experimentation.
-- **GitHub Flow**: Grasp the GitHub Flow, a lightweight, branch-based workflow that supports teams and projects in deploying regularly.
+### Part 1: Clone the Repository and Read the README.md File 
+1. Click on the assignment link and accept the assignment.
+2. Use the `git clone` command followed by your repository's URL. (Find this URL on your GitHub repository page under the "Code" button.)
 
-### Part 2: Practical Exercises
-1. **Clone the Repository**: Clone the repository to your local machine to start working on the assignment.
+### Part 2: Creare a New Branch: 
+1. Delete the "TODO" here.
+2. Create a new branch named "update_readme".
+3. Push this new branch to the GitHub repository.
 
-### Part 3: Working with Branches on GitHub
-1. **Create a New Branch**: On GitHub, create a new branch for a feature or bug fix you'd like to work on.
-2. **Push Changes**: Make changes locally and push them to your branch on GitHub.
-3. **Open a Pull Request**: From your branch, open a pull request to the main branch.
-4. **Review and Merge**: Engage in the review process with your classmates, and merge the pull request once it is approved.
+### Part 3: Explore Pull and Push Operations: 
+1. Delete _**"This is a typo"**_ here.
+2. Open a pull request for your branch with the commecnt "Delete a typo."
+3. Merge your pull request.
 
-## Summary
-- Submit a report detailing your experience with GitHub's pull and push operations, working with branches, and following the GitHub Flow. Discuss how these practices facilitate collaboration and project management.
+### Part 4: Git Commands
+- Please complete the TODOs in `writing/git_command.md`.
+
+### Part 5: Write about GitHub Collaboration
+- In `writing/reflection.md`:
+    - Discuss how the pull and push mechanisms in GitHub are fundamental to the functionality of distributed version control systems.
+    - Share your insights and personal experiences with utilizing GitHub branches
+    - Explain What is GitHub Flow? Provide a thorough analysis beyond its basic definition, focusing on the importance of each GitHub Flow step and its impact on collaborative software development.
+
+### _Notes_: 
+- Make sure to put your assignments in a folder named after your course. After you upload them to GitHub, your work is saved and you can get to it anytime.
+- Within `writing/git_command.md` and `writing/reflection.md`, you will find several TODOs awaiting your completion. As you work, please ensure to remove all TODO markers. 
+- For this lab, GatorGrader will verify that all TODOs have been eliminated and that your submission includes a minimum of 300 words.
+
+## Resources
+- Git Documentation: https://git-scm.com/doc
+    - Pro Git book: https://git-scm.com/book/en/v2
+- Coursera: https://www.coursera.org/learn/introduction-git-github
 
 ## Deliverables
 Please submit your work by pushing it to your GitHub Classroom repository.
 - You will modify the files `writing/git_command.md` and `writing/reflection.md` to respond questions in the document.
 
 ## Project Assessment
+- **Completion of Steps 2 and 3 (20%)**: Successfully completing Steps 2 and 3 will each contribute 20% towards the assessment
 - **Report Quality (40%)**: The quality of the writing in `writing/reflection.md` will be assessed, focusing on clarity, structure, and adherence to the assignment guidelines.
-- **Git Command Proficiency (60%)**: Correctly answer questions related to Git commands in `writing/git_command.md`.
+- **Git Command Proficiency (30%)**: Correctly answer questions related to Git commands in `writing/git_command.md`.
+- **Achieve GatorGrader Compliance (10%)**: Successfully meets the criteria set by GatorGrader.
 
 ## Gator Grade
 ### GatorGrade Checks for Immediate Feedback

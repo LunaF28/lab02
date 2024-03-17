@@ -1,4 +1,4 @@
-# CMPSC 104 - Document Engineering Lab 2 Assignment (Part 1)
+# CMPSC 104 - Document Engineering Lab 2 Assignment
 
 Please add your responses to this file.
 
@@ -21,7 +21,7 @@ Please add your responses to this file.
   ```
    TODO
   ```
-3. To push changes to the master branch:
+3. To push changes to the main branch:
   ```
    TODO
   ```
@@ -74,6 +74,7 @@ Please add your responses to this file.
    TODO
   ```
 15. To delete a branch locally:
+  ```
    TODO
   ```
 16. To delete a branch on GitHub: 
