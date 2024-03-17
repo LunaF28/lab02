@@ -24,7 +24,7 @@
 
 ## Tools
 - A computer
-- Internet connection for installation and documentation reference
+- Internet connection
 - A GitHub account
 
 ## Learning Outcomes
