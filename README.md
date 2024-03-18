@@ -70,7 +70,7 @@ These assignment learning outcomes contribute to the following course learning o
 
 ## Deliverables
 Please submit your work by pushing it to your GitHub Classroom repository.
-- You will modify the files `writing/git_command.md` and `writing/reflection.md` to respond questions in the document.
+- You will modify the files `README.md`, `writing/git_command.md` and `writing/reflection.md` to respond questions in the document.
 
 ## Project Assessment
 - **Completion of Steps 2 and 3 (20%)**: Successfully completing Steps 2 and 3 will each contribute 20% towards the assessment
