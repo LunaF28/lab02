@@ -75,6 +75,10 @@ Please submit your work by pushing it to your GitHub Classroom repository.
 ## Project Assessment
 - **Completion of Steps 2 and 3 (20%)**: Successfully completing Steps 2 and 3 will each contribute 20% towards the assessment
 - **Report Quality (40%)**: The quality of the writing in `writing/reflection.md` will be assessed, focusing on clarity, structure, and adherence to the assignment guidelines.
+    - Clarity and Coherence (10%): Writing clearly expresses ideas and concepts, with logical flow and coherence throughout.
+    - Structure and Organization (10%): The report is well-structured. Follows the assignment guidelines accurately.
+    - Grammar and Style (10%): Correct use of grammar, punctuation, and academic style. Professional and appropriate language is used.
+    - Depth of Reflection (10%): Demonstrates deep understanding and thoughtful reflection on each topics. Includes detailed explanations and insights.
 - **Git Command Proficiency (30%)**: Correctly answer questions related to Git commands in `writing/git_command.md`.
 - **Achieve GatorGrader Compliance (10%)**: Successfully meets the criteria set by GatorGrader.
 
