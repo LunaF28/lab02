@@ -46,8 +46,9 @@ These assignment learning outcomes contribute to the following course learning o
 
 ### Part 3: Explore Pull and Push Operations: 
 1. Delete _**"This is a typo"**_ here.
-2. Open a pull request for your branch with the commecnt "Delete a typo."
-3. Merge your pull request.
+2. Open a pull request for your branch with the comment "Delete a typo."
+3. Request approval from your Technical Lead (TL) by adding them as a reviewer for the pull request.
+4. Merge your pull request upon receiving approval from your TL.
 
 ### Part 4: Git Commands
 - Please complete the TODOs in `writing/git_command.md`.
@@ -65,15 +66,14 @@ These assignment learning outcomes contribute to the following course learning o
 
 ## Resources
 - Git Documentation: https://git-scm.com/doc
-    - Pro Git book: https://git-scm.com/book/en/v2
-- Coursera: https://www.coursera.org/learn/introduction-git-github
+    - Pro Git book: https://git-scm.com/book/en/v2, specifically chapters 1, 2, and 3. 
 
 ## Deliverables
 Please submit your work by pushing it to your GitHub Classroom repository.
 - You will modify the files `README.md`, `writing/git_command.md` and `writing/reflection.md` to respond questions in the document.
 
 ## Project Assessment
-- **Completion of Steps 2 and 3 (20%)**: Successfully completing Steps 2 and 3 will each contribute 20% towards the assessment
+- **Completion of Parts 2 and 3 (20%)**: Successfully completing Parts 2 and 3 will each contribute 20% towards the assessment
 - **Report Quality (40%)**: The quality of the writing in `writing/reflection.md` will be assessed, focusing on clarity, structure, and adherence to the assignment guidelines.
     - Clarity and Coherence (10%): Writing clearly expresses ideas and concepts, with logical flow and coherence throughout.
     - Structure and Organization (10%): The report is well-structured. Follows the assignment guidelines accurately.
