@@ -51,7 +51,7 @@ These assignment learning outcomes contribute to the following course learning o
 4. Merge your pull request upon receiving approval from your TL.
 
 ### Part 4: Git Commands
-- Please complete the TODOs in `writing/git_command.md`.
+- Please complete the tasks in `writing/git_command.md`.
 
 ### Part 5: Write about GitHub Collaboration
 - In `writing/reflection.md`:
@@ -61,8 +61,8 @@ These assignment learning outcomes contribute to the following course learning o
 
 ### _Notes_: 
 - Make sure to put your assignments in a folder named after your course. After you upload them to GitHub, your work is saved and you can get to it anytime.
-- Within `writing/git_command.md` and `writing/reflection.md`, you will find several TODOs awaiting your completion. As you work, please ensure to remove all TODO markers. 
-- For this lab, GatorGrader will verify that all TODOs have been eliminated and that your submission includes a minimum of 300 words.
+- Within `writing/git_command.md` and `writing/reflection.md`, you will find several tasks awaiting your completion. As you work, please ensure to remove all markers indicating pending work. 
+- For this lab, GatorGrader will verify that all indicators of incomplete tasks have been addressed and that your submission includes a minimum of 300 words.
 
 ## Resources
 - Git Documentation: https://git-scm.com/doc
