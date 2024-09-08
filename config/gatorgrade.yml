@@ -22,10 +22,10 @@ setup: |
         fragment: TODO
         count: 0
         exact: true
-    - description: Write a minimum number of meaningful words (300) in the reflection.md
+    - description: Write a minimum number of meaningful words (200) in the reflection.md
       check: CountFileWords
       options:
-        count: 300
+        count: 200
         exact: false
 
 # count number of commits in the GitHub repository

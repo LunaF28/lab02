@@ -61,7 +61,7 @@ These assignment learning outcomes contribute to the following course learning o
 ### _Notes_: 
 - Make sure to put your assignments in a folder named after your course. After you upload them to GitHub, your work is saved and you can get to it anytime.
 - Within `writing/git_command.md` and `writing/reflection.md`, you will find several tasks awaiting your completion. As you work, please ensure to remove all markers indicating pending work. 
-- For this lab, GatorGrader will verify that all indicators of incomplete tasks have been addressed and that your submission includes a minimum of 300 words.
+- For this lab, GatorGrader will verify that all indicators of incomplete tasks have been addressed and that your submission includes a minimum of 200 words.
 
 ## Resources
 - Git Documentation: https://git-scm.com/doc
