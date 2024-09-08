@@ -31,59 +31,43 @@ Please add your responses to this file.
   ```
 
 ## Pulling Changes from GitHub
-5. To fetch changes without merging:
+5. To check the status:
   ```
    TODO
   ```
-6. To check the status:
+6. To view commits:
   ```
    TODO
   ```
-7. To view commits:
-  ```
-   TODO
-  ```
-8. To compare differences:
-  ```
-   TODO
-  ```
-9. To merge fetched changes:
-  ```
-   TODO
-  ```
-10. For a simple pull (fetch + merge):
+7. For a simple pull:
   ```
    TODO
   ```
 
 ## Working with Branches
-11. To create a new branch locally:
+8. To create a new branch locally:
   ```
    TODO
   ```
-12. To push a new branch to GitHub:
+9. To push a new branch to GitHub:
   ```
    TODO
   ```
-13. To switch branches:
+10. To switch branches:
   ```
    TODO
   ```
-14. To list all branches:
+11. To list all branches:
   ```
    TODO
   ```
-15. To delete a branch locally:
-  ```
-   TODO
-  ```
-16. To delete a branch on GitHub: 
+12. To delete a branch locally:
   ```
    TODO
   ```
 
 ## GitHub Flow
-17. Create a new branch for your work.
+13. Create a new branch for your work.
 - Make changes and commit:
   ```
    TODO
