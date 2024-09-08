@@ -46,8 +46,8 @@ These assignment learning outcomes contribute to the following course learning o
 
 ### Part 3: Explore Pull and Push Operations: 
 1. Open a pull request for your `update_readme` branch with the comment "Update README.md by removing TODO".
-2. Request approval from your Technical Lead (TL) by adding them as a reviewer for the pull request.
-3. Merge your pull request upon receiving approval from your TL.
+2. Request approval from your instructor by submitting the pull request. The instructor will review and approve it.
+3. After receiving approval, merge the pull request, but **do not delete the update_readme branch**. The update_readme branch is required for grading, as GatorGrader will check the contents of this branch.
 
 ### Part 4: Git Commands
 - Please complete the tasks in `writing/git_command.md`.
