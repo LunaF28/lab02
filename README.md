@@ -45,10 +45,9 @@ These assignment learning outcomes contribute to the following course learning o
 3. Push this new branch to the GitHub repository.
 
 ### Part 3: Explore Pull and Push Operations: 
-1. In the `update_readme` branch, delete _**"This is a typo"**_ from the file (here)
-2. Open a pull request for your branch with the comment "Delete a typo."
-3. Request approval from your Technical Lead (TL) by adding them as a reviewer for the pull request.
-4. Merge your pull request upon receiving approval from your TL.
+1. Open a pull request for your `update_readme` branch with the comment "Update README.md by removing TODO".
+2. Request approval from your Technical Lead (TL) by adding them as a reviewer for the pull request.
+3. Merge your pull request upon receiving approval from your TL.
 
 ### Part 4: Git Commands
 - Please complete the tasks in `writing/git_command.md`.
