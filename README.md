@@ -40,12 +40,12 @@ These assignment learning outcomes contribute to the following course learning o
 2. Use the `git clone` command followed by your repository's URL. (Find this URL on your GitHub repository page under the "Code" button.)
 
 ### Part 2: Creare a New Branch: 
-1. Delete the "TODO" here.
-2. Create a new branch named "update_readme".
+1. Create a new branch named `update_readme` locally.
+2. In the `update_readme` branch, delete the `TODO` from the README.md file (here).
 3. Push this new branch to the GitHub repository.
 
 ### Part 3: Explore Pull and Push Operations: 
-1. Delete _**"This is a typo"**_ here.
+1. In the `update_readme` branch, delete _**"This is a typo"**_ from the file (here)
 2. Open a pull request for your branch with the comment "Delete a typo."
 3. Request approval from your Technical Lead (TL) by adding them as a reviewer for the pull request.
 4. Merge your pull request upon receiving approval from your TL.
@@ -73,7 +73,7 @@ Please submit your work by pushing it to your GitHub Classroom repository.
 - You will modify the files `README.md`, `writing/git_command.md` and `writing/reflection.md` to respond questions in the document.
 
 ## Project Assessment
-- **Completion of Parts 2 and 3 (20%)**: Successfully completing Parts 2 and 3 will each contribute 20% towards the assessment
+- **Completion of Parts 2 and 3 (20%)**: Successfully completing Parts 2 and 3 will each contribute 10% towards the assessment
 - **Report Quality (40%)**: The quality of the writing in `writing/reflection.md` will be assessed, focusing on clarity, structure, and adherence to the assignment guidelines.
     - Clarity and Coherence (10%): Writing clearly expresses ideas and concepts, with logical flow and coherence throughout.
     - Structure and Organization (10%): The report is well-structured. Follows the assignment guidelines accurately.
