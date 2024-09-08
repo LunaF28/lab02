@@ -40,7 +40,7 @@ These assignment learning outcomes contribute to the following course learning o
 2. Use the `git clone` command followed by your repository's URL. (Find this URL on your GitHub repository page under the "Code" button.)
 
 ### Part 2: Creare a New Branch: 
-1. Create a new branch named `update_readme` locally.
+1. Create a new branch named `update_readme`.
 2. In the `update_readme` branch, delete the `TODO` from the README.md file (here).
 3. Push this new branch to the GitHub repository.
 
