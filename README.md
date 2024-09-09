@@ -39,9 +39,9 @@ These assignment learning outcomes contribute to the following course learning o
 1. Click on the assignment link and accept the assignment.
 2. Use the `git clone` command followed by your repository's URL. (Find this URL on your GitHub repository page under the "Code" button.)
 
-### Part 2: Creare a New Branch: 
+### Part 2: Create a New Branch: 
 1. Create a new branch named `update_readme`.
-2. In the `update_readme` branch, delete the `TODO` from the README.md file (here).
+2. In the `update_readme` branch, delete the from the README.md file (here). [Adding this for test]
 3. Push this new branch to the GitHub repository.
 
 ### Part 3: Explore Pull and Push Operations: 
